@@ -1,0 +1,22 @@
+2020-02-23 22:58:11 INFO  HelloWorld:21 - Intrest Window constructer is called
+2020-02-23 22:58:11 INFO  HelloWorld:25 - Intrest Window Opened
+2020-02-23 22:58:11 INFO  HelloWorld:23 - Cost window constructor called
+2020-02-23 22:58:11 INFO  HelloWorld:83 - Listening for the choice and area
+2020-02-23 22:58:11 INFO  HelloWorld:30 - Cost Window Opened
+2020-02-23 22:58:36 INFO  HelloWorld:81 - Waiting for simple intrest input
+2020-02-23 22:58:36 INFO  HelloWorld:82 - Simple intrest button clicked
+2020-02-23 22:58:36 INFO  HelloWorld:88 - Calculating simple intrest
+2020-02-23 22:58:36 INFO  HelloWorld:89 - Simple intrest displayed 
+2020-02-23 22:58:40 INFO  HelloWorld:96 - Waiting for compound intrest input
+2020-02-23 22:58:40 INFO  HelloWorld:97 - Compund intrest button clicked
+2020-02-23 22:58:40 INFO  HelloWorld:104 - Caluting compound intrest
+2020-02-23 22:58:40 INFO  HelloWorld:105 - Compound intrest displayed
+2020-02-23 22:58:55 INFO  HelloWorld:92 - Waiting for Input
+2020-02-23 22:58:55 INFO  HelloWorld:106 - Option 3 is selelcted
+2020-02-23 22:58:55 INFO  HelloWorld:114 - resultand value is displayed
+2020-02-23 22:58:57 INFO  HelloWorld:92 - Waiting for Input
+2020-02-23 22:58:57 INFO  HelloWorld:111 - Option 4 is selelcted
+2020-02-23 22:58:57 INFO  HelloWorld:114 - resultand value is displayed
+2020-02-23 22:59:01 INFO  HelloWorld:92 - Waiting for Input
+2020-02-23 22:59:01 INFO  HelloWorld:101 - Option 2 is selelcted
+2020-02-23 22:59:01 INFO  HelloWorld:114 - resultand value is displayed
